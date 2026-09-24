@@ -1,0 +1,14 @@
+{
+  "name": "anime-discord-bot",
+  "version": "2.0.0",
+  "description": "Professional Anime Mini-Platform for Discord",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.2.1"
+  }
+}
